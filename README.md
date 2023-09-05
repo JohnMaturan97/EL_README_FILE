@@ -33,15 +33,15 @@ Welcome to this guide, where we'll walk you through the process of cloning a Bit
 - Right-click in the directory and choose "Git Bash Here" to open a Git terminal.
 - Clone the repository by running:
 
-\```bash
+\`
 git clone [URL]
-\```
+\`
 
 Replace `[URL]` with the URL you previously copied. For instance:
 
-\```bash
+\`
 git clone https://bitbucket.org/yourusername/yourrepo.git
-\```
+\`
 
 ---
 
@@ -50,9 +50,9 @@ git clone https://bitbucket.org/yourusername/yourrepo.git
 - After the cloning process concludes, a new directory named after the repository will appear.
 - Navigate to this directory with:
 
-\```bash
+\`
 cd repository_name
-\```
+\`
 
 - Congratulations, you're now in your local version of the Bitbucket repository and ready to begin work!
 
@@ -62,20 +62,11 @@ cd repository_name
 
 - To open the cloned repository in VSCode directly from the terminal, use:
 
-\```bash
+\`
 code .
-\```
+\`
 
 ---
-
-## Initial Git Setup (Recommended for First-Time Users)
-
-- Before making commits, it's advisable to configure your Git identity:
-
-\```bash
-git config --global user.name "Your Full Name"
-git config --global user.email "your_email@example.com"
-\```
 
 This identity will be associated with your commits, so ensure accuracy.
 
