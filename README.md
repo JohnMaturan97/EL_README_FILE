@@ -59,4 +59,4 @@ code .
 
 ---
 
-This identity will be associated with your commits, so ensure accuracy.
+With these steps completed, you're set to start working with your Bitbucket repository in VSCode.
